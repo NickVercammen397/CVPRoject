@@ -1,0 +1,8 @@
+shiny
+seaborn
+pandas
+psycopg2
+numpy
+re
+pathlib
+shinyswatch
